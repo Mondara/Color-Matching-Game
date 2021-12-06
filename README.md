@@ -3,7 +3,7 @@
 # Color Matching Game
 A simple Color Matching Game built with HTML, CSS and JavaScript.
 
-### [Play the game](https://ofcode.com.br/projects/minesweeper)
+### [Play the game](https://color-match-mt.netlify.app/)
 
 
 ## Further help
