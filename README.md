@@ -2,13 +2,12 @@
 
 # Color Matching Game
 A simple Color Matching Game built with HTML, CSS and JavaScript.
+The objective of the game is to match the color with the given rgb, hex or hsl value.
+The game also features three difficulty options 'Easy', 'Medium' and 'Hard'.
+
 
 ### [Play the game](https://ofcode.com.br/projects/minesweeper)
 
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Author
 
