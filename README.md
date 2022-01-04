@@ -5,8 +5,7 @@ A simple Color Matching Game built with HTML, CSS and JavaScript.
 The objective of the game is to match the color with the given rgb, hex or hsl value.
 The game also features three difficulty options 'Easy', 'Medium' and 'Hard'.
 
-
-### [Play the game](https://ofcode.com.br/projects/minesweeper)
+### [Play the game](https://color-match-mt.netlify.app/)
 
 
 ## Author
